@@ -81,12 +81,12 @@ This project's methodology and findings have been documented in a research paper
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📧 Contact
+## 👩‍💻 Author
 
 **Nancy Gautam** - [@NANCYGAUTAM78](https://github.com/NANCYGAUTAM78)
 
 Project Link: [https://github.com/NANCYGAUTAM78/Stock-Prediction-With-News-Sentiment-Analysis.git]
-(https://github.com/NANCYGAUTAM78/Stock-Prediction-With-News-Sentiment-Analysis.git)
+
 
 ## ⭐ Show Your Support
 
