@@ -115,11 +115,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 Project Link: [https://github.com/NANCYGAUTAM78/Stock-Prediction-With-News-Sentiment-Analysis.git]
 
-
-## ⭐ Show Your Support
-
-If you find this project helpful, please give it a star!
-
 ---
 
 **Made with ❤️ and Python**
