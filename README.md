@@ -28,6 +28,34 @@ A comprehensive full-stack AI/ML application that predicts stock price movements
 - Stock market data sources
 - Sentiment analysis models
 
+# Stock Prediction API
+
+This project exposes a trained PyTorch LSTM model as a REST API using FastAPI.
+
+## Endpoints
+
+### GET /
+Returns API status.
+
+### POST /predict
+Predicts stock value based on input features.
+
+Sample input:
+{
+  "f1": 0.5,
+  "f2": 180.2,
+  "f3": 0.3,
+  "f4": 1.0
+}
+
+Sample output:
+{
+  "prediction": 0.1655
+}
+
+## Run the API
+uvicorn api:app --reload
+
 ## 🚀 Getting Started
 
 ### Prerequisites
